@@ -11,22 +11,6 @@ public class CalcApp
      
     }
 
-   //  public void str()
-   //  {
-   //      string Number = "12345";
- 
-   //      string[] str = Number.Split(' ');
- 
-   //      foreach (var item in Number)
- 
-   //      {
- 
-   //          System.Console.WriteLine(item);
- 
-   //      }
-
-   //  }
-
 
       public  void SayGreeting()
     {
